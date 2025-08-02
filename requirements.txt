@@ -1,0 +1,19 @@
+# requirements.txt
+
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+torch
+optuna
+pyspark
+kafka-python
+fastapi
+uvicorn
+plotly
+dash
+matplotlib
+gym
+rlcard
+opencv-python
